@@ -1,0 +1,15 @@
+python challenge urls
+
+http://www.pythonchallenge.com/pc/def/0.html 
+http://www.pythonchallenge.com/pc/def/map.html 
+http://www.pythonchallenge.com/pc/def/ocr.html 
+http://www.pythonchallenge.com/pc/def/equality.html 
+http://www.pythonchallenge.com/pc/def/linkedlist.html 
+http://www.pythonchallenge.com/pc/def/linkedlist.php 
+http://www.pythonchallenge.com/pc/def/peak.html
+http://www.pythonchallenge.com/pc/def/channel.html 
+http://www.pythonchallenge.com/pc/def/channel.zip 
+http://www.pythonchallenge.com/pc/def/hockey.html 
+http://www.pythonchallenge.com/pc/def/oxygen.html 
+http://www.pythonchallenge.com/pc/def/integrity.html 
+http://www.pythonchallenge.com/pc/return/good.html          un: huge | pw: file
